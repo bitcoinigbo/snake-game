@@ -1,0 +1,5 @@
+{
+  "name": "React Snake Game",
+  "description": "A modern, responsive Snake game built with React, TypeScript, and Tailwind CSS. Features keyboard and swipe controls, increasing difficulty, and sound effects.",
+  "requestFramePermissions": []
+}
